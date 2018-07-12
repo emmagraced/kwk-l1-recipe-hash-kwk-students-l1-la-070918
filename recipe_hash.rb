@@ -17,7 +17,7 @@ end
 puts perfect_10_recipe
 
  def amount_of_chocolate_chips(perfect_10_recipe)
-   perfect_10_recipemini_dark_chocolate_chips
+ 
  end
 puts amount_of_chocolate_chips
 # #3: Use `puts` to print out every ingredient and amount in the hash by iterating through the collection. You'll want to use the `each` method.
